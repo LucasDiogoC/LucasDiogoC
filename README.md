@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Diogo
+# Lucas Diogo
 
 **`Dev iniciante`**
 
