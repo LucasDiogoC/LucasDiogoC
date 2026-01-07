@@ -2,7 +2,7 @@
 
 **`Dev iniciante`**
 
-Me chamo Lucas Diogo, tenho atualmente 20 anos e sou naturalmento de São Paulo. Conclui o ensino medio em 2023. Atualmente estou cursando faculdade de Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonado por tecnologia e estou em busca de uma oportunidade de ingressar na área e realizar meu objetivo.
+Me chamo Lucas Diogo, tenho atualmente 20 anos e sou naturalmente de São Paulo. Conclui o ensino medio em 2023. Atualmente estou cursando faculdade de Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonado por tecnologia e estou em busca de uma oportunidade de ingressar na área e realizar meu objetivo.
 
 
 ### 🤖 Linguagens e Tecnologias
